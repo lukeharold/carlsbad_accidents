@@ -1,0 +1,17 @@
+,collision_factor,0
+0,Unsafe Speed,67
+1,Improper Turning,52
+2,Auto R/W Violation,26
+3,Other Improper Driving,17
+4,Unknown,15
+5,Traffic Signals and Signs,14
+6,Other Than Driver,13
+7,Other Hazardous Movement,11
+8,Driving Under Influence,8
+9,Following Too Closely,4
+10,Unsafe Lane Change,4
+11,Ped R/W Violation,3
+12,Wrong Side of Road,3
+13,Improper Passing,2
+14,Not Stated,1
+15,Pedestrian Violation,1

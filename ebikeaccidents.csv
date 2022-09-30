@@ -1,0 +1,76 @@
+,date,report_no,address,Latitude,Longitude,distance_in_ft,direction,day,collision_factor,collision_type,involved_with,vehicle_type,month,year
+221,2019-12-24,19-08606,"PARK DR and ADAMS ST, Carlsbad, San Diego, United States",33.152327,-117.3334012,49,NORTH,24,Unsafe Speed,Hit Object,Fixed Object,Electric Bicycle,12,2019
+239,2019-03-02,19-01211,"CARLSBAD BLVD and CEREZO DR, Carlsbad, San Diego, United States",33.1285778,-117.3327191,0,Not Stated,2,Improper Turning,Broadside,Bicycle,Electric Bicycle,3,2019
+173,2020-10-05,20-06238,"AVENIDA ENCINAS and POINSETTIA LANE, Carlsbad, San Diego, United States",33.1029063,-117.3134841,0,Not Stated,5,Traffic Signals and Signs,Broadside,Bicycle,Electric Bicycle,10,2020
+174,2020-10-04,20-06204,"CARLSBAD BLVD and POINSETTIA LANE, Carlsbad, San Diego, United States",33.101796,-117.3180903,546,NORTH,4,Other Than Driver,Not Stated,Fixed Object,Electric Bicycle,10,2020
+177,2020-09-27,20-06036,"PASEO DEL NORTE and CAMINO DE LAS ONDAS, Carlsbad, San Diego, United States",33.1102704,-117.3094874,22,NORTH,27,Improper Turning,Rear-End,Bicycle,Electric Bicycle,9,2020
+178,2020-09-26,20-06025,"POINSETTIA LANE and AVENIDA ENCINAS, Carlsbad, San Diego, United States",33.1029063,-117.3134841,0,Not Stated,26,Other Than Driver,Other,Non - Collision,Electric Bicycle,9,2020
+180,2020-09-19,20-05843,"EL CAMINO REAL and KELLY DR, Carlsbad, San Diego, United States",33.1524537,-117.3100736,700,SOUTH,19,Improper Turning,Hit Object,Fixed Object,Electric Bicycle,9,2020
+207,2020-04-28,20-02513,"EL CAMINO REAL and LA COSTA AVE, Carlsbad, San Diego, United States",33.0853092,-117.2685925,0,Not Stated,28,Unsafe Speed,Broadside,Bicycle,Electric Bicycle,4,2020
+210,2020-03-21,20-01908,"ADAMS ST and HIGHLAND DR, Carlsbad, San Diego, United States",33.1605087,-117.3341569,780,EAST,21,Other Improper Driving,Other,Other Object,Electric Bicycle,3,2020
+212,2020-01-23,20-00508,"EL CAMINO REAL and ARENAL RD, Carlsbad, San Diego, United States",33.0945964,-117.2678402,500,SOUTH,23,Unsafe Lane Change,Other,Bicycle,Electric Bicycle,1,2020
+57,2021-12-31,21-08697,"ADAMS ST and HIGHLAND DR, Carlsbad, San Diego, United States",33.1605087,-117.3341569,645,SOUTH,31,Other Than Driver,Hit Object,Animal,Electric Bicycle,12,2021
+59,2021-12-28,21-08643,"FARADAY AVE and PRIESTLY DR, Carlsbad, San Diego, United States",33.1352407,-117.2761241,0,Not Stated,28,Wrong Side of Road,Broadside,Bicycle,Electric Bicycle,12,2021
+62,2021-12-15,21-08375,"COLLEGE BLVD and TAMARACK AVE (S), Carlsbad, San Diego, United States",33.1706117,-117.2934067,4,SOUTH,15,Other Hazardous Movement,Sideswipe,Bicycle,Electric Bicycle,12,2021
+65,2021-11-29,21-08000,"AMBROSIA LANE and AVIARA PY, Carlsbad, San Diego, United States",33.101333,-117.2767351,301,NORTH,29,Unsafe Speed,Rear-End,Bicycle,Electric Bicycle,11,2021
+66,2021-11-27,21-07956,"3421 VIA MOTELBELLO, Carlsbad, San Diego, United States",33.0812231,-117.2333473,0,Not Stated,27,Other Improper Driving,Broadside,Bicycle,Electric Bicycle,11,2021
+69,2021-11-10,21-07534,"FARADAY AVE and EL CAMINO REAL, Carlsbad, San Diego, United States",33.1366511,-117.2732373,0,Not Stated,10,Unsafe Speed,Sideswipe,Bicycle,Electric Bicycle,11,2021
+70,2021-11-01,21-07340,"ROSEMARY AVE and IVY ST, Carlsbad, San Diego, United States",33.1031248,-117.3019097,97,WEST,1,Other Hazardous Movement,Head-On,Other Motor Vehicle,Electric Bicycle,11,2021
+71,2021-10-31,21-07297,"CHESTNUT AVE and OXFORD ST, Carlsbad, San Diego, United States",33.165981,-117.313713,405,WEST,31,Improper Turning,Other,Bicycle,Electric Bicycle,10,2021
+72,2021-10-28,21-07214,"GATEWAY RD and ALICANTE RD, Carlsbad, San Diego, United States",33.1276355,-117.2617997,0,Not Stated,28,Unsafe Speed,Other,Non - Collision,Electric Bicycle,10,2021
+75,2021-10-23,21-07114,"RANCHO SANTA FE RD and PASEO LUPINO, Carlsbad, San Diego, United States",33.0837865,-117.231413,0,Not Stated,23,Traffic Signals and Signs,Broadside,Bicycle,Electric Bicycle,10,2021
+76,2021-10-08,21-06722,"TAMARACK AVE and HIBISCUS CR, Carlsbad, San Diego, United States",33.1503162,-117.3403847,520,WEST,8,Improper Turning,Broadside,Bicycle,Electric Bicycle,10,2021
+79,2021-10-01,21-06575,"CHESTNUT AVE and JEFFERSON ST, Carlsbad, San Diego, United States",33.1650545,-117.3484147,90,WEST,1,Auto R/W Violation,Broadside,Bicycle,Electric Bicycle,10,2021
+86,2021-09-16,21-06230,"HARDING ST and OAK AVE, Carlsbad, San Diego, United States",33.160858,-117.343712,0,Not Stated,16,Improper Turning,Other,Bicycle,Electric Bicycle,9,2021
+91,2021-09-10,21-06102,"TAMARACK AVE and E POINTE AVEE, Carlsbad, San Diego, United States",33.152676,-117.314949,400,WEST,10,Unsafe Speed,Overturned,Non - Collision,Electric Bicycle,9,2021
+93,2021-09-03,21-05930,"POINSETTIA LANE and QUARTZ WAY, Carlsbad, San Diego, United States",33.1157583,-117.2566366,540,EAST,3,Unsafe Speed,Other,Non - Collision,Electric Bicycle,9,2021
+94,2021-08-30,21-05807,"TAMARACK AVE and HIBISCUS CRv, Carlsbad, San Diego, United States",33.1503162,-117.3403847,6,WEST,30,Auto R/W Violation,Other,Bicycle,Electric Bicycle,8,2021
+97,2021-08-19,21-05568,"WIND TRAIL WAY and WIND TRAIL WAY, Carlsbad, San Diego, United States",33.152945,-117.2954241,59,EAST,19,Improper Turning,Hit Object,Fixed Object,Electric Bicycle,8,2021
+98,2021-08-16,21-05481,"COLLEGE BLVD and PLAINS WAY, Carlsbad, San Diego, United States",33.1619253,-117.291988,74,NORTH,16,Auto R/W Violation,Broadside,Bicycle,Electric Bicycle,8,2021
+101,2021-08-07,21-05294,"GRAND AVE and STATE ST, Carlsbad, San Diego, United States",33.160683,-117.349602,39,EAST,7,Other Hazardous Movement,Sideswipe,Bicycle,Electric Bicycle,8,2021
+104,2021-07-30,21-05095,"VIA MONTEBELLO, Carlsbad, San Diego, United States",33.0815969,-117.2331981,0,Not Stated,30,Other Improper Driving,Head-On,Bicycle,Electric Bicycle,7,2021
+107,2021-07-23,21-04907,"ALICANTE RD and ALTISMA WAY (N), Carlsbad, San Diego, United States",33.0934736,-117.255191,0,Not Stated,23,Other Than Driver,Other,Non - Collision,Electric Bicycle,7,2021
+108,2021-07-22,21-04881,"JEFFERSON ST and TAMARACK AVE, Carlsbad, San Diego, United States",33.1545825,-117.3181712,4,SOUTH,22,Traffic Signals and Signs,Broadside,Bicycle,Electric Bicycle,7,2021
+110,2021-07-21,21-04866,"CARLSBAD BLVD and CANNON RD, Carlsbad, San Diego, United States",33.1324834,-117.3354103,58,SOUTH,21,Improper Turning,Sideswipe,Bicycle,Electric Bicycle,7,2021
+115,2021-07-15,21-04716,"TAMARACK AVE and I-5 TAMARACK SB OFF RAMP, Carlsbad, San Diego, United States",33.1475628,-117.345311,65,EAST,15,Unsafe Speed,Hit Object,Other Object,Electric Bicycle,7,2021
+118,2021-06-27,21-04291,"TYLER ST and PINE AVE, Carlsbad, San Diego, United States",33.157684,-117.34642,0,Not Stated,27,Unsafe Speed,Other,Non - Collision,Electric Bicycle,6,2021
+121,2021-06-21,21-04153,"AVENIDA DE ANITA and MARRON RD, Carlsbad, San Diego, United States",33.1783317,-117.321925,86,SOUTH,21,Unsafe Speed,Overturned,Non - Collision,Electric Bicycle,6,2021
+125,2021-05-31,21-03645,"ANILLO WAY and PALACIO DR, Carlsbad, San Diego, United States",33.0802823,-117.2605061,95,EAST,31,Unknown,Other,Non - Collision,Electric Bicycle,5,2021
+127,2021-05-23,21-03443,"POINSETTIA LANE and AVENIDA ENCINAS, Carlsbad, San Diego, United States",33.1029063,-117.3134841,0,Not Stated,23,Improper Turning,Sideswipe,Bicycle,Electric Bicycle,5,2021
+130,2021-05-21,21-03370,"COLLEGE BLVD and CANNON RD, Carlsbad, San Diego, United States",33.1549962,-117.2871277,42,NORTH,21,Unsafe Speed,Sideswipe,Bicycle,Electric Bicycle,5,2021
+143,2021-03-21,21-01824,"MAGNOLIA AVE and ROOSEVELT ST, Carlsbad, San Diego, United States",33.154263,-117.342827,68,EAST,21,Improper Turning,Head-On,Bicycle,Electric Bicycle,3,2021
+146,2021-02-21,21-01156,"EL FUERTE ST and CORTE DE LA VISTA, Carlsbad, San Diego, United States",33.0943043,-117.2518124,510,NORTH,21,Unsafe Speed,Other,Non - Collision,Electric Bicycle,2,2021
+148,2021-02-06,21-00822,"CARLSBAD BLVD and AVENIDA ENCINAS, Carlsbad, San Diego, United States",33.0918303,-117.3138019,1500,SOUTH,6,Unsafe Speed,Rear-End,Bicycle,Electric Bicycle,2,2021
+152,2021-01-30,21-00638,"EL CAMINO REAL and KELLY DR, Carlsbad, San Diego, United States",33.1524537,-117.3100736,15,SOUTH,30,Unsafe Speed,Hit Object,Fixed Object,Electric Bicycle,1,2021
+0,2022-07-30,22-04964,"CARLSBAD BLVD and SEQUOIA AVE, Carlsbad, San Diego, United States",33.1468951,-117.3447858,2640,SOUTH,30,Unsafe Speed,Rear-End,Parked Motor Vehicle,Electric Bicycle,7,2022
+1,2022-07-27,22-04889,"LA COSTA AVE and VIA MONTEBELLO, Carlsbad, San Diego, United States",33.0806139,-117.2355746,284,SOUTH,27,Driving Under Influence,Sideswipe,Bicycle,Electric Bicycle,7,2022
+2,2022-07-24,22-04793,"CARLSBAD BLVD and WALNUT AVE, Carlsbad, San Diego, United States",33.1538818,-117.3502175,113,NORTH,24,Improper Turning,Sideswipe,Bicycle,Electric Bicycle,7,2022
+4,2022-07-19,22-04682,"OCEAN ST and GRAND AVE, Carlsbad, San Diego, United States",33.1584411,-117.3534498,0,Not Stated,19,Unknown,Other,Non - Collision,Electric Bicycle,7,2022
+5,2022-07-11,22-04498,"TAMARACK AVE and COASTAL RAIL TRAIL CLASS IV BIKE LANE, Carlsbad, San Diego, United States",33.1540375,-117.3448732,226,NORTH,11,Unsafe Speed,Rear-End,Bicycle,Electric Bicycle,7,2022
+8,2022-07-01,22-04299,"EL CAMINO REAL and LA COSTA AVE, Carlsbad, San Diego, United States",33.0853092,-117.2685925,813,NORTH,1,,Broadside,Bicycle,Electric Bicycle,7,2022
+10,2022-06-29,22-04226,"JEFFERSON ST and MARRON RD, Carlsbad, San Diego, United States",33.1767938,-117.3311118,475,WEST,29,Unsafe Speed,Hit Object,Fixed Object,Electric Bicycle,6,2022
+16,2022-06-01,22-03579,"POINSETTIA LANE and ALICANTE RD, Carlsbad, San Diego, United States",33.1146847,-117.2606896,156,WEST,1,Other Than Driver,Overturned,Non - Collision,Electric Bicycle,6,2022
+17,2022-05-24,22-03423,"TAMARACK AVE and LEVEE DR, Carlsbad, San Diego, United States",33.1744614,-117.2900097,3,NORTH,24,Ped R/W Violation,Vehicle - Pedestrian,Pedestrian,Electric Bicycle,5,2022
+19,2022-05-23,22-03404,"TAMARACK AVE and AMBERWOOD CT, Carlsbad, San Diego, United States",33.1533525,-117.313119,8,WEST,23,Unsafe Speed,Overturned,Non - Collision,Electric Bicycle,5,2022
+21,2022-05-19,22-03296,"CHESTNUT AVE and CAMEO RD, Carlsbad, San Diego, United States",33.16227,-117.322403,300,EAST,19,Other Improper Driving,Vehicle - Pedestrian,Pedestrian,Electric Bicycle,5,2022
+24,2022-04-26,22-02716,"EL CAMINO REAL and WEST RANCH ST, Carlsbad, San Diego, United States",33.1514953,-117.3034616,300,NORTH,26,Unsafe Speed,Rear-End,Bicycle,Electric Bicycle,4,2022
+25,2022-04-14,22-03202,"CARLSBAD BLVD and EATON STREET, Carlsbad, San Diego, United States",33.1705926,-117.35831,1050,SOUTH,14,Auto R/W Violation,Other,Bicycle,Electric Bicycle,4,2022
+27,2022-03-27,22-02009,"CARLSBAD BLVD and OAK AVE, Carlsbad, San Diego, United States",33.156743,-117.3507832,0,Not Stated,27,Auto R/W Violation,Broadside,Bicycle,Electric Bicycle,3,2022
+28,2022-03-23,22-01918,"CARLSBAD VILLAGE DR and STATE ST, Carlsbad, San Diego, United States",33.1596101,-117.3487163,179,WEST,23,Improper Turning,Sideswipe,Bicycle,Electric Bicycle,3,2022
+31,2022-03-12,22-01647,"CARLSBAD BLVD and AVENIDA ENCINAS, Carlsbad, San Diego, United States",33.0918303,-117.3138019,0,Not Stated,12,Improper Turning,Broadside,Bicycle,Electric Bicycle,3,2022
+32,2022-03-11,22-01621,"1 MAVERICK WAY, Carlsbad, San Diego, United States",33.0734532,-117.2299022,0,Not Stated,11,Other Improper Driving,Other,Non - Collision,Electric Bicycle,3,2022
+34,2022-03-01,22-01392,"2000 CHESTNUT AVENUE, Carlsbad, San Diego, United States",33.1616346,-117.3263934,0,Not Stated,1,Unknown,Other,Non - Collision,Electric Bicycle,3,2022
+35,2022-03-01,22-01361,"CARLSBAD BLVD and CHERRY AVE, Carlsbad, San Diego, United States",33.1503334,-117.3475832,0,Not Stated,1,Unsafe Speed,Broadside,Bicycle,Electric Bicycle,3,2022
+36,2022-02-27,22-01303,"PALOMAR AIRPORT RD and CAMINO VIDA ROBLE, Carlsbad, San Diego, United States",33.1201098,-117.2817611,1057,WEST,27,Unsafe Speed,Hit Object,Fixed Object,Electric Bicycle,2,2022
+37,2022-02-25,22-01247,"PARK DR and VALENCIA AVE, Carlsbad, San Diego, United States",33.144813,-117.31584,425,WEST,25,Unsafe Speed,Sideswipe,Bicycle,Electric Bicycle,2,2022
+38,2022-02-24,22-01225,"LA COSTA AVE and LEVANTE ST, Carlsbad, San Diego, United States",33.0822882,-117.2376428,0,Not Stated,24,Auto R/W Violation,Broadside,Bicycle,Electric Bicycle,2,2022
+39,2022-02-24,22-01227,"CHESTNUT AVE and MONROE ST, Carlsbad, San Diego, United States",33.161634,-117.3264132,203,WEST,24,Improper Turning,Sideswipe,Bicycle,Electric Bicycle,2,2022
+40,2022-02-20,22-01156,"EL FUERTE ST and RANCHO PANCHO, Carlsbad, San Diego, United States",33.1151935,-117.2480442,265,SOUTH,20,Unsafe Speed,Overturned,Non - Collision,Electric Bicycle,2,2022
+41,2022-02-18,22-01122,"AVIARA PY and MIMOSA DR, Carlsbad, San Diego, United States",33.100793,-117.2715965,102,SOUTH,18,Wrong Side of Road,Broadside,Bicycle,Electric Bicycle,2,2022
+43,2022-02-13,22-00977,"MARRON RD and MONROE ST, Carlsbad, San Diego, United States",33.1764286,-117.3369854,500,Not Stated,13,Driving Under Influence,Other,Non - Collision,Electric Bicycle,2,2022
+46,2022-02-11,22-00927,"CAMINO DE LAS ONDAS and SEASCAPE DR, Carlsbad, San Diego, United States",33.1102386,-117.3074486,14,EAST,11,Improper Turning,Broadside,Bicycle,Electric Bicycle,2,2022
+47,2022-02-09,22-00896,"PALOMAR AIRPORT RD and COLLEGE BLVD, Carlsbad, San Diego, United States",33.1241685,-117.3015176,0,Not Stated,9,Traffic Signals and Signs,Broadside,Bicycle,Electric Bicycle,2,2022
+48,2022-02-07,22-00834,"STATE ST and LAGUNA DR, Carlsbad, San Diego, United States",33.1652652,-117.3466418,12,NORTH,7,,Hit Object,Fixed Object,Electric Bicycle,2,2022
+51,2022-01-30,22-00662,"CHESTNUT AVE and MADISON ST, Carlsbad, San Diego, United States",33.1564065,-117.3430865,6,WEST,30,Improper Turning,Other,Non - Collision,Electric Bicycle,1,2022
+53,2022-01-27,22-00596,"POINSETTIA LANE and EL FUERTE ST, Carlsbad, San Diego, United States",33.1181736,-117.2493076,0,Not Stated,27,Improper Turning,Sideswipe,Bicycle,Electric Bicycle,1,2022
+54,2022-01-04,22-00057,"CALLE BARCELONA and RANCHO SANTA FE RD, Carlsbad, San Diego, United States",33.0722449,-117.2425095,15,EAST,4,Driving Under Influence,Hit Object,Other Object,Electric Bicycle,1,2022
